@@ -11,8 +11,8 @@
 </head>
 <body>
 <!--Navbar--->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#"><img src="logo.png" width="40" height="30" class="d-inline-block align-top" alt="">TSF BANK</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="logo.png" width="40" height="30" class="d-inline-block align-top" alt="">The Sparks Foundation Bank</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -23,12 +23,12 @@
         <a class="nav-link" href="home.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.thesparksfoundationsingapore.org/" target='_blank'>About Us</a>
+        <a class="nav-link" href="https://www.thesparksfoundationsingapore.org/" target='_blank'>About</a>
       </li>
       
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        View all Customers
+        Our Customers
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="viewcustomer.php">Customers</a>
@@ -37,7 +37,7 @@
         </div>  
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="contact.php">Contact</a>
+        <a class="nav-link" href="contact.php">Contact us</a>
       </li>
       
       
@@ -50,9 +50,9 @@
 
 
 <div class='container py-5 text-center'>
-<h1 class="pt-3">Customers Information</h1>
+<h1 class="pt-3"><u>Customers Information</u></h1>
 <table class="table mt-5">
-  <thead class="thead-dark">
+  <thead class="thead-light">
     <tr>
       <th scope="col">ID</th>
       <th scope="col">Name</th>
@@ -165,7 +165,7 @@
 
 
 <footer>
-<div class="footer-copyright text-center py-3">© 2021 The Sparks Foundation. All Rights Reserved | Design by IPSITA </a>
+<div class="footer-copyright text-center py-3">© 2021 The Sparks Foundation. All Rights Reserved | Design by GEETESH</a>
   </div>
   <!-- Copyright -->
 </footer>
