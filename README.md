@@ -1,7 +1,7 @@
-# Website_Banking_System-
-Basic Banking System Developed by Ipsita Mondal.
+Banking_System-
+Basic Banking System Developed by GEETESH DUBEY.
 
-Website link :- https://lizaipsu.000webhostapp.com/WebsiteX/images/index.php
+Website link :- https://geeteshdubey.000webhostapp.com/index.php
 
 
 TSF BANK
